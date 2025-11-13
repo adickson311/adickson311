@@ -11,7 +11,7 @@ TypeScript • Angular • NestJS • Node.js • RxJS • PostgreSQL • Docker
 I’m always open to connecting with developers who care about **clean architecture**, **composable UIs**, and **real-world engineering ethics** — not hype.  
 
 📫 **Reach me:**  
-[LinkedIn](https://www.linkedin.com/in/andregabrieldickson) • [Email](mailto:adickson311@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/adickson311) • [Email](mailto:adickson311@gmail.com)
 
 <!---
 adickson311/adickson311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
