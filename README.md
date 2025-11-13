@@ -2,7 +2,7 @@
 
 I’m a Pittsburgh-based engineer with **18+ years** building web platforms that blend **elegant front-end design** with **industrial-strength back-end architecture**.  
 
-💡 **Currently building:** [Project RedFrost](https://github.com/adickson311) — a modern SaaS platform for rental and inventory businesses, powered by **Angular 21**, **NestJS**, and **TypeORM**.  
+💡 **Currently building:** [Project RedFrost](https://github.com/adickson311) — a modern SaaS platform, powered by **Angular 21**, **NestJS**, and **TypeORM**.  
 
 🧠 **Tech stack passions:**  
 TypeScript • Angular • NestJS • Node.js • RxJS • PostgreSQL • Docker • OpenShift • CI/CD  
